@@ -1,3 +1,4 @@
 # I'm Leamlak👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leamlak12)](https://github.com/anuraghazra/github-readme-stats)
+<img alt="my stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=leamlak12"/>
+<img alt="top langs" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leamlak12&layout=compact"/>
