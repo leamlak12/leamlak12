@@ -27,13 +27,14 @@ Tech Stack:
 
 
 
-![GitHub followers](https://img.shields.io/github/followers/leamlak12?style=for-the-badge&logo=github&labelColor=blue&color=pink)
-
-
-
 
 
 
 <img alt="my stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=leamlak12"/>
 <img alt="top langs" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leamlak12&layout=compact"/>
+
+
+
+![GitHub followers](https://img.shields.io/github/followers/leamlak12?style=for-the-badge&logo=github&labelColor=blue&color=pink)
+
 
