@@ -1,5 +1,15 @@
 # I'm Leamlak👋
 
+👩🏻‍💻 Software Engineer sharing about my journey and learnings in tech
+
+🔭 I’m currently working on improving my skills in full-stack development.
+
+👯 I’m looking to collaborate on open source projects that focus on web development and machine learning.
+
+💬 Ask me about my projects, or if you need a study buddy for coding challenges!
+
+📫 How to reach me: leamlakmintsenot@gmail.com .
+
 Socials=
 
 ![Static Badge](https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=orchild&color=purple)
