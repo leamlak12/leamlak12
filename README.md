@@ -33,15 +33,11 @@ Tech Stack:
 ![Static Badge](https://img.shields.io/badge/canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white&labelColor=maroon&color=aq)
 ![Static Badge](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=orchild&color=light%20green)
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=leamlak12&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=leamlak12&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=leamlak12&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-
-
-
-
-
-
-<img alt="my stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=leamlak12"/>
-<img alt="top langs" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leamlak12&layout=compact"/>
 
 
 
