@@ -1,8 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=26CD67&width=435&lines=I'm+leamlak mintesnot.;Experienced+Software+Developer.;Skilled+in++Technical+Projects.;Welcome+to+my+GitHub+Profile..!)](https://git.io/typing-svg)
-<!-- [![](chat.svg)](https://www.linkedin.com/in/leamlak12/) -->
-<a href="https://www.linkedin.com/in/leamlak12/" target="_blank">
-    <img src="leamlak12.svg" alt="leamlak mintesnot Git Artwork">
-
 # I'm Leamlak👋
 
 👩🏻‍💻 Software Engineer sharing about my journey and learnings in tech
